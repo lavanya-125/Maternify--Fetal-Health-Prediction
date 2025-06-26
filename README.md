@@ -1,3 +1,5 @@
+> 📌 Note: This is a personal fork of a collaborative project developed by Akarsh, Anwita, Anika, and I.  
+> The original repository was created by [Akarsh (techsavy23-creator)](https://github.com/techsavy23-creator).
 
 # Maternify
 
