@@ -1,7 +1,7 @@
 
 # Maternify
 
-Maternify is an AI-powered platform for pregnancy risk assessment and fetal health monitoring. Using advanced machine learning, it provides accurate predictions to support informed decision-making. Our dual-prediction system enables early detection, prevention, and timely interventions, enhancing maternal and fetal health outcomes.
+Maternify is an AI-powered platform for pregnancy risk assessment and fetal health monitoring. Using advanced machine learning, it provides accurate predictions to support informed decision-making. Our dual-prediction system enables early detection, prevention, and timely interventions, enhancing maternal and fetal health outcomes.My teammates Lavanya,Anwita and Anika alongside me were able to create this beautiful project
 
 
 ## Features  
